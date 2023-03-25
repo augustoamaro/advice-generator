@@ -4,6 +4,6 @@ import Card from './components/Card.vue'
 
 <template>
   <div class="content">
-    <Card msg="Vite + Vue" />
+    <Card />
   </div>
 </template>
